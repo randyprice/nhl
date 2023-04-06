@@ -1,0 +1,127 @@
+{
+  "eastern": {
+    "atlantic": {
+      "boston": {
+        "nickname": "bruins"
+      },
+      "buffalo": {
+        "nickname": "sabres"
+      },
+      "detroit": {
+        "nickname": "red wings"
+      },
+      "florida": {
+        "nickname": "panthers",
+        "abbreviation": "fla"
+      },
+      "montreal": {
+        "nickname": "canadiens",
+        "abbreviation": "mtl"
+      },
+      "ottawa": {
+        "nickname": "senators"
+      },
+      "tampa bay": {
+        "nickname": "lightning",
+        "abbreviation": "tbl"
+      },
+      "toronto": {
+        "nickname": "maple leafs"
+      }
+    },
+    "metropolitan": {
+      "carolina": {
+        "nickname": "hurricanes"
+      },
+      "columbus": {
+        "nickname": "blue jackets",
+        "abbreviation": "cbj"
+      },
+      "new jersey": {
+        "nickname": "devils",
+        "abbreviation": "njd"
+      },
+      "ny islanders": {
+        "nickname": "islanders",
+        "abbreviation": "nyi",
+        "location": "new york"
+      },
+      "ny rangers": {
+        "nickname": "rangers",
+        "abbreviation": "nyr",
+        "location": "new york"
+      },
+      "philadelphia": {
+        "nickname": "flyers"
+      },
+      "pittsburgh": {
+        "nickname": "penguins"
+      },
+      "washington": {
+        "nickname": "capitals",
+        "abbreviation": "wsh"
+      }
+    }
+  },
+  "western": {
+    "central": {
+      "arizona": {
+        "nickname": "coyotes"
+      },
+      "chicago": {
+        "nickname": "blackhawks"
+      },
+      "colorado": {
+        "nickname": "avalanche"
+      },
+      "dallas": {
+        "nickname": "stars"
+      },
+      "minnesota": {
+        "nickname": "wild"
+      },
+      "nashville": {
+        "nickname": "predators",
+        "abbreviation": "nsh"
+      },
+      "st. louis": {
+        "nickname": "blues",
+        "abbreviation": "stl"
+      },
+      "winnipeg": {
+        "nickname": "jets",
+        "abbreviation": "wpg"
+      }
+    },
+    "pacific": {
+      "anaheim": {
+        "nickname": "ducks"
+      },
+      "calgary": {
+        "nickname": "flames",
+        "abbreviation": "cgy"
+      },
+      "edmonton": {
+        "nickname": "oilers"
+      },
+      "los angeles": {
+        "nickname": "kings",
+        "abbreviation": "lak"
+      },
+      "san jose": {
+        "nickname": "sharks",
+        "abbreviation": "sjs"
+      },
+      "seattle": {
+        "nickname": "kraken"
+      },
+      "vancouver": {
+        "nickname": "canucks"
+      },
+      "vegas": {
+        "nickname": "golden knights",
+        "abbreviation": "vgk"
+      }
+    }
+  }
+}
