@@ -1,10 +1,9 @@
 import os
 
+# names of and paths to directories and files
 DATA_DIR = "data"
-
 TEAMS_JSON_FILE = "teams.json"
 TEAMS_JSON_PATH = os.path.join(DATA_DIR, TEAMS_JSON_FILE)
-
 # probabilities
 P_HOME_ICE_WIN = 0.50
 P_HOME_ICE_LOSS = 0.40
@@ -16,7 +15,7 @@ P_RATING_DIFF_WIN = 0.42
 P_RATING_DIFF_LOSS = 0.42
 RATING_DIFF_WEIGHT = 0.70
 RATING_DIFF_SCALE_FACTOR = 0.04
-# max goals scorable in a game
+# maimum number of goals a team can score in a game
 MAX_GOALS = 7
 # team ratings
 MIN_RATING = 1
